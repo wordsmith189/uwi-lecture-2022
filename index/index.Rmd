@@ -17,7 +17,7 @@ output:
 
 layout: true
 
-<div class="my-footer"><span class="highlight-front">slides:&emsp;<a href="https://bit.ly/hinrichs-uwi-slides">bit.ly/hinrichs-uwi-slides</a>&emsp;|&emsp;web:&emsp;<a href="https://larshinrichs.site">larshinrichs.site</a></span></div> 
+<div class="my-footer"><span class="highlight-front">web:&emsp;<a href="https://larshinrichs.site">larshinrichs.site</a></span></div> 
 
 ---
 
