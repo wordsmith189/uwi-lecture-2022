@@ -81,6 +81,220 @@ background-image: url(jsoc_intro.png)
 background-size: cover
 
 ---
+# Why diaspora sociolinguistics?
 
+1. A clearer, more controlled way to study language and globalization (Tseng & Hinrichs 2021)
+
+--
+
+1. To better model variation and diversity in the city
+
+--
+
+1. To improve our description of multicultural urban vernacular formation
+
+---
+
+.left-column[]
+
+.right-column[
+# Outline
+
+1. The community 
+1. Fieldwork and data 
+1. Linguistic questions
+1. Conclusions
+]
+
+---
+class: inverse, middle, center
+
+# The community
+
+---
+
+## The Toronto Jamaican Community
+
+.pull-left[3-4% of city's population
+
+Immigration history
+
+Jamaica is a diverse, majority-Black population. By iconization and erasure (Irvine & Gal 2009), community members are therefore, within Toronto, equated with Blackness.]
+
+--
+
+.pull-right[There are other African-descended ethnicities in Toronto (African American, African, Caribbean, South American...)...
+
+...and there are Jamaicans who are not Black, yet...
+
+"Black Canadian" is equated to "Jamaican"]
+
+---
+class: middle
+
+# Indexicality of JC at the level of the Toronto speech community 
+
+.center[<iframe width="560" height="315" src="https://www.youtube.com/embed/FBDWCPa1fV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]
+
+
+---
+class: middle
+
+> Covert prestige for JC as (a) a heritage code, (b) a Black Canadian code, and (c) a contributor to new hip urban identity (Kardinal)
+
+---
+class: middle
+
+> This **order of indexicalities** from (a) to (c) runs paralell to generations of CanJam identity, and is in itself there to tell a story: from G1 foreign variety to G2 elective code used in CS to G2+n tributary to urban youth vernacular 
+
+---
+background-image: url(functions1.png)
+background-size: cover
+
+---
+background-image: url(functions2.png)
+background-size: cover
+
+---
+class: middle
+
+(c): invention of new local identities and new codes that are critically informed by recent immigration
+
+---
+class: middle
+
+> These help us write the sociolinguistics of modern, globalized urban speech communities - which are difficult to describe, and which in their existence pose a challenge to Labovian sociolinguistics.
+
+.right[cf. Blommaert (2003; 2010)]
+
+---
+class: middle
+
+Blommaert has shown us that there are ways in which Labovian sociolinguistics fails to capture sociolinguistic phenomena of the present day. 
+
+--
+
+Blommaert's operative term is **super-diversity**. 
+
+There are problems with that term: it is in itself a method of erasure for the diversities that have always existed, even before the present times of accelerating diversification (Hinrichs 2015; Pavlenko 2018).
+
+---
+class: inverse, middle, center
+
+# Fieldwork and data 
+
+---
+
+
+.pull-left[
+
+## Fieldwork
+
+- fieldwork in Toronto in 2006, 2007, 2008, 2011, 2014
+
+- initial challenges of fieldwork
+
+- JCA and Louise Bennett Memorial
+
+- sociolinguistic interviews
+
+
+]
+
+.pull-right[
+
+## Data
+
+- focus on G2 and G2+n speakers with at least 1 J'can parent
+
+- transcription of 48 interviews
+
+- CA transcripts of selected passages > stylistic analysis
+
+- forced alignment using DARLA > sociophonetic analysis
+
+]
+
+
+---
+class: inverse, middle, center
+
+# Linguistic features
+
+---
+# Benchmark: MLE
+
+- Parallel to Toronto
+
+--
+
+- Windrush generation, starting late 40s
+
+- cp. Canadian Jamaicans, starting late 60s
+
+--
+
+- "emerging" (Toronto) vs. "mature" (London) diaspora communities
+
+---
+The formation of these dialects is the most interesting thing happening in big cities in Europe and North America right now 
+
+And not only do they raise questions for sociolinguistics...
+
+...they are also surprisingly hard to capture with established models of language contact 
+
+---
+
+# What type of variety formation by contact to multiethnolects represent?
+
+- pidgin
+
+- creole
+
+- koine
+
+---
+
+xx illustration siegel
+
+---
+
+# Multiethnolectalization in Toronto?
+
+There is very little research on the emerging multiethnolect in Toronto - Farquharson, Denis, Hinrichs
+
+---
+
+# The issue
+
+1. Multiethnolects are none of these! 
+
+1. Those who have researched MLE stay away from calling it anything but MLE
+
+---
+class: inverse, middle, center
+
+# Some findings from Toronto
+
+---
+
+xx One or two analyses from my chapter 6
+
+---
+
+What we are seeing is at the incipient (but not the florid) stage of multiethnolectalization
+
+---
+
+# Conclusions
+
+The study of language in the Toronto Jamaican community allows us to find public as well as private speech events that are able to reveal the **ideological embedding** of an immigrant variety,
+
+it also reveals in stark detail the **systematicity** of a new kind of local - at the same time as translocal - indexicality in linguistic variation vis-a-vis which Labovian sociolinguistics is powerless, but which is nonetheless best sserved by study via sophisticated variationist statistical methods.
+
+---
+class: inverse, middle, center
+
+# The End
 
 
