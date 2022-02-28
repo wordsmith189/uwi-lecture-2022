@@ -369,6 +369,9 @@ df <- df %>%
          following_nasal = 
            case_when(folSeg %in% c("M", "N", "NG") ~ "yes", 
                                      TRUE ~ "no"))
+
+# here is a comment that I'm adding for demoing purposes 
+
 df %>% 
   tabyl(following_nasal) %>% 
   mutate(
