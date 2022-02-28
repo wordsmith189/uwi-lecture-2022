@@ -237,7 +237,9 @@ class: inverse, middle, center
 - "emerging" (Toronto) vs. "mature" (London) diaspora communities
 
 ---
-The formation of these dialects is the most interesting thing happening in big cities in Europe and North America right now 
+class: middle
+
+The formation of these **new dialects** is the most interesting thing (linguistically speaking) that's happening in big cities in Europe and North America right now 
 
 And not only do they raise questions for sociolinguistics...
 
@@ -245,7 +247,7 @@ And not only do they raise questions for sociolinguistics...
 
 ---
 
-# What type of variety formation by contact to multiethnolects represent?
+# What type of variety formation by contact do multiethnolects represent?
 
 - pidgin
 
@@ -255,10 +257,11 @@ And not only do they raise questions for sociolinguistics...
 
 
 ---
+class: middle
 
 # Multiethnolectalization in Toronto?
 
-There is very little research on the emerging multiethnolect in Toronto - Farquharson, Denis, Hinrichs
+There is very little research on the emerging multiethnolect in Toronto (but see contributions by Farquharson, Denis, Hinrichs)
 
 ---
 
@@ -292,7 +295,7 @@ class: middle, center
 
 ---
 
-```{r bump-chart, fig.width=12, fig.height=7, warning=FALSE, message=FALSE, echo=FALSE}
+```{r bump-chart, fig.width=12, fig.height=6, warning=FALSE, message=FALSE, echo=FALSE}
 
 p_load(ggbump)
 
