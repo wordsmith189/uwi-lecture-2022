@@ -1,5 +1,5 @@
 ---
-title: "Why we Need Diaspora Sociolinguistics"
+title: "Why We Need Diaspora Sociolinguistics"
 subtitle: "Challenges to Established Models of Language Contact"
 author: "Lars Hinrichs<br/>The University of Texas at Austin"
 institute: "Presented at UWI Mona"
